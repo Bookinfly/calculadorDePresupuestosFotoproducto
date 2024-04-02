@@ -1,0 +1,26 @@
+{
+  "name": "calculadora_de_presupuesto",
+  "version": "1.0.0",
+  "description": "Practica con node, common js, para armar un sitio estatico. Sirve para hacer presupuestos de fotoproducto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bookinfly/calculadorDePresupuestosFotoproducto.git"
+  },
+  "keywords": [
+    "calculadora",
+    "practica",
+    "portfolio",
+    "presupuestos",
+    "fotoproducto"
+  ],
+  "author": "Nahuel Amado (Bookinfly)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bookinfly/calculadorDePresupuestosFotoproducto/issues"
+  },
+  "homepage": "https://github.com/Bookinfly/calculadorDePresupuestosFotoproducto#readme"
+}

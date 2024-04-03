@@ -4,7 +4,9 @@
   "description": "Practica con node, common js, para armar un sitio estatico. Sirve para hacer presupuestos de fotoproducto",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+
   },
   "repository": {
     "type": "git",
